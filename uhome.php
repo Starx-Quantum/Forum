@@ -2,6 +2,8 @@
 	session_start();
 	require("header.php");
 	require("checkUser.php");
+        
+
 ?>
 <script type="text/javascript">
 	document.getElementById("auhome").className="active";
